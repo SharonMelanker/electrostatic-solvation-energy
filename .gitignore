@@ -1,0 +1,10 @@
+﻿*.pdf
+*.asv
+*.m~
+*.slxc
+slprj/
+codegen/
+*.mex*
+*.log
+.DS_Store
+Thumbs.db
